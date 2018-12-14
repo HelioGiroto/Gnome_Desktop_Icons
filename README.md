@@ -18,7 +18,7 @@ Após isso digite no Terminal:
 USUÁRIOS **STEAM**: Caso vc quer abrir algum aplicativo da STEAM diretamente (sem ter que abrir o Steam, etc...), mas só clicando no ícone dele, veja como pode ser feito neste exemplo: https://github.com/HelioGiroto/Gnome_Desktop_Icons/blob/master/Pixeluvo.desktop 
 
 Bom proveito!
-Hélio G.
+H.
 
 ![Screenshot 1](https://raw.githubusercontent.com/HelioGiroto/Gnome_Desktop_Icons/master/install%20icons%201.png)
 ![Screenshot 2](https://raw.githubusercontent.com/HelioGiroto/Gnome_Desktop_Icons/master/install%20icons%202.png)
