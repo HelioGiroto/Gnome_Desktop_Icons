@@ -19,3 +19,8 @@ USUÁRIOS **STEAM**: Caso vc quer abrir algum aplicativo da STEAM diretamente (s
 
 Bom proveito!
 Hélio G.
+
+![Screenshot 1](https://raw.githubusercontent.com/HelioGiroto/Gnome_Desktop_Icons/master/install%20icons%201.png)
+![Screenshot 2](https://raw.githubusercontent.com/HelioGiroto/Gnome_Desktop_Icons/master/install%20icons%202.png)
+![Screenshot 3](https://raw.githubusercontent.com/HelioGiroto/Gnome_Desktop_Icons/master/install%20icons%203.png)
+![Screenshot 4](https://raw.githubusercontent.com/HelioGiroto/Gnome_Desktop_Icons/master/install%20icons%204.png)
