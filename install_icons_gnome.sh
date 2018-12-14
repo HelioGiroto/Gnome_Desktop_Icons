@@ -22,7 +22,7 @@ chmod +x ${nome}.desktop
 echo; echo "INSTALADO NO DESKTOP!!"
 echo
 
-echo "A imagem do ícone aparecerá depois de ser aberto na 1a. vez."
+echo "A imagem do ícone aparecerá depois de ser aberto pela 1a. vez."
 echo
 # Autor: Helio Giroto
 
